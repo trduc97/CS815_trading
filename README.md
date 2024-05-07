@@ -1,4 +1,4 @@
-# CS815_trading
+# Automated_trading
 
 In this repo, we attempt to create a trading bot that automates the decision-making process based on next-day prediction. So there are 2 main tasks:
 
